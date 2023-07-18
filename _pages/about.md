@@ -12,4 +12,4 @@ I am a graduate student majoring in electronic information from Shanghai Univers
 
 [Email](mailto:484526025@qq.com)
 [Github](https://github.com/Ljq777777)
-[Wechat](../image/wechat.jpg)
+[Wechat](../images/wechat.jpg)
