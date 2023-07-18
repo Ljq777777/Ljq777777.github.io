@@ -10,6 +10,4 @@ redirect_from:
 
 I am a graduate student majoring in electronic information from Shanghai University of Technology (https://www.usst.edu.cn/). My research direction is in-depth learning.
 
-[Email](mailto:484526025@qq.com)
-[Github](https://github.com/Ljq777777)
-[Wechat](../images/wechat.jpg)
+[Email](mailto:484526025@qq.com) / [Github](https://github.com/Ljq777777) / [Wechat](../images/wechat.jpg)
